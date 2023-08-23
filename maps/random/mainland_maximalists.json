@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "Name": "Mainland Twilight",
+        "Script": "mainland_maximalists.js",
+        "Description": "A typical map without any water. Balanced food start",
+        "Preview": "mainland.png",
+        "Keywords": ["multiplayer"],
+        "SupportedBiomes": "mainland_maximalists/",
+        "CircularMap": true
+    }
+}

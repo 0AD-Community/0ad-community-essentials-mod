@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "Name": "Mainland Fixed positions",
+        "Script": "mainland_fixed_positions.js",
+        "Description": "A typical map without any water and with no annoying Cliffs and Fixed positions. Balanced food start",
+        "Preview": "mainland.png",
+        "Keywords": ["multiplayer"],
+        "SupportedBiomes": "mainland_maximalists/",
+        "CircularMap": true
+    }
+}

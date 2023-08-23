@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "Name": "Alpine Mountains",
+        "Script": "alpine_mountains.js",
+        "Description": "Alpine mountains",
+        "Preview": "alpine_mountains_rnd.png",
+        "SupportedBiomes": "alpine_mountains/",
+        "CircularMap": true
+    }
+}

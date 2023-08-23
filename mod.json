@@ -1,0 +1,8 @@
+{
+    "name": "community-essentials",
+    "version": "27.0.0",
+    "label": "0 A.D. Community Essentials",
+    "url": "https://github.com/0AD-Community/0ad-community-essentials-mod",
+    "description": "TODO",
+    "dependencies": ["0ad=0.0.27"]
+}
